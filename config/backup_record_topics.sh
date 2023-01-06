@@ -54,5 +54,3 @@ rosbag record \
 /scout/predicted_state \
 /scout/reference_trajectory \
 /scout/state_machine/state_info \
-/orb_slam2_mono/debug_image/compressed \
-/orb_slam2_mono/map_points \
